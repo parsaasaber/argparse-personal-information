@@ -1,0 +1,8 @@
+python3 main.py -n Alice -f Smith --age 25
+python3 main.py -f Smith --age 25
+python3 main.py -n Alice --age 25
+python3 main.py -n Alice -f Smith
+python3 main.py --na Alice -f Smith --age 25
+python3 main.py --name Alice --famili Smith --age 25
+python3 main.py --name Alice --famili Smith --ag 25
+python3 main.py --nme Alice --famili Smith --ag 25

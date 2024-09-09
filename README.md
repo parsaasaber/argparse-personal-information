@@ -72,7 +72,7 @@ To run the script, use the following command:
 $ python main.py -n <first_name> -f <family_name> -a <age>
 ```
 
-Replace `<first_name>`, `<family_name>`, and `<age>` with your actual values. You can omit any of these options to see how the script responds.
+Replace `[first name]`, `[family name]`, and `[age]` with your actual values. You can omit any of these options to see how the script responds.
 #### For Example
 ```
 $ python main.py -n Alice -f Smith --age 25

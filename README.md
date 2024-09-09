@@ -69,7 +69,7 @@ The script constructs an output message based on the provided arguments, handlin
 To run the script, use the following command:
 
 ```
-$ python main.py -n <first_name> -f <family_name> -a <age>
+$ python main.py -n [first name] -f [family name] -a [age]
 ```
 
 Replace `[first name]`, `[family name]`, and `[age]` with your actual values. You can omit any of these options to see how the script responds.
